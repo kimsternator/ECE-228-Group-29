@@ -8,6 +8,8 @@ Our raw Wildfire data is in the **Data** folder
 We clean our data and the process is in **Data Cleaning.ipynb**. Unfortunately, the entire file cannot be run since the API KEY is not included, but the resulting data is in the **Cleaned Data** folder.
 
 We then split our cleaned data into training data and test data. This is then stored in the **Model Data** folder. 
+# Data Visualization
+holomap.html, points.html are visualizations generated from the cleaned data and they provide a visualization for the Wildfire data per year.
 # Logistic Regression & MLP
 The logistic regression and MLP model (training and testing) are in the **Logistic-Regression-MLP.ipynb**.
 # LSTM
