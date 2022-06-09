@@ -16,3 +16,8 @@ The logistic regression and MLP model (training and testing) are in the **Logist
 The LSTM model (training and testing) are in the **Time Series Analysis.ipynb**.
 # Random Forest
 The Random Forest model (training and testing) are in the **Random Forest.ipynb**.
+
+To run the Random Forest model, open up the **Random Forest.ipynb** file
+- Run the Imports section
+- Run the Data Preparation
+- Run the Optimal HyperParameter Analysis section
